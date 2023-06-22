@@ -1,0 +1,2 @@
+cd C:\Users\Anak\Documents\Storage\Code\PontoPet\WebApp
+C:\Users\Anak\Documents\Storage\Code\PontoPet\WebApp\.venv\Scripts\python.exe -m hypercorn app.main:app -b 127.0.0.1:8080 --keep-alive 5 --worker-class asyncio --workers 4

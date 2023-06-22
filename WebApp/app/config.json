@@ -1,0 +1,5 @@
+{
+    "LogLevel": "DEBUG",
+    "PontoPetURL": "localhost",
+    "PontoPetPort": "8001"
+}
